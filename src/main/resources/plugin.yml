@@ -1,0 +1,9 @@
+main: io.github.kwasow.ExampleMain
+name: ExampleMain
+version: "1.0"
+author: Karol Wąsowski (wasowski02@gmail.com)
+description: An example plugin
+commands:
+  exampleplugin:
+    description: This plugin has no commands
+    usage: /exampleplugin
