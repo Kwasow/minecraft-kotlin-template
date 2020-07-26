@@ -1,6 +1,7 @@
 main: io.github.kwasow.ExampleMain
 name: ExampleMain
 version: "1.0"
+api-version: "1.16"
 author: Karol Wąsowski (wasowski02@gmail.com)
 description: An example plugin
 commands:
